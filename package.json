@@ -1,0 +1,20 @@
+{
+    "name": "playgrounder",
+    "version": "1.0.0",
+    "description": "Simple utility for having the Testing Playground running and updating automatically as you test.",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "playgrounder": "index.js"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "testing",
+        "playground",
+        "playgrounder"
+    ],
+    "author": "Bruno Noriller (brunonoriller@gmail.com)",
+    "license": "MIT"
+}
